@@ -23,4 +23,4 @@ Prerequisites:
 Java Development Kit (JDK) installed on your system.
 A Java IDE like IntelliJ IDEA, Eclipse.
 
-Clone or download the repository : 
+Clone or download the repository : https://github.com/AKsHAY-528/Memory-Card-Game.git
