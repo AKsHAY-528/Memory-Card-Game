@@ -16,3 +16,11 @@ Incorrect attempts increase the error count.
 Win Condition: Successfully match all pairs before time runs out.
 Restart Option: A button to restart the game anytime.
 Scalable Design: Game board size and card dimensions can be easily adjusted.
+
+Installation Instructions :
+
+Prerequisites:
+Java Development Kit (JDK) installed on your system.
+A Java IDE like IntelliJ IDEA, Eclipse.
+
+Clone or download the repository : 
