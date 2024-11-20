@@ -1,10 +1,14 @@
 Overview:
+
 Pokémon Match Cards is a simple card-matching memory game built using Java Swing. The game challenges players to find pairs of matching Pokémon energy cards within a limited time. It is designed as a fun and interactive way to improve memory and focus.
 
 Features :
+
 Interactive UI: A visually engaging grid of cards that players can interact with.
 Timer-based Gameplay: A countdown timer adds an extra layer of challenge.
 Error Count: Tracks the number of incorrect attempts.
+
+
 Game Logic:
 Match two identical cards to score a pair.
 Incorrect attempts increase the error count.
