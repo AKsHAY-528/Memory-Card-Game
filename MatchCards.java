@@ -19,7 +19,9 @@ public class MatchCards {
     }
 
     String[] cardList = {
-         
+            "darkness", "double", "fairy", "fighting", "fire",
+            "grass", "lightning", "metal", "psychic", "water"
+    };
 
     int rows = 4;
     int columns = 5;
